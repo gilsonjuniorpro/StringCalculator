@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">StringCalculator</string>
+    <string name="string_calculator_title">String Calculator</string>
+    <string name="values">values</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">result</string>
+    <string name="negatives_not_allowed">Negatives not allowed.</string>
+    <string name="the_result_is">The result is: %1$s</string>
 </resources>
